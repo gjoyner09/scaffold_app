@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Overview
+Basic scaffold app made in Rails
 
-Things you may want to cover:
+### Purpose
+To practice using routing and scaffolds in Rails
 
-* Ruby version
+### Versions
+Ruby 2.7.1p83
+Rails 6.1.1
 
-* System dependencies
+### Use
+Install Ruby and Rails
+Run `bundle install` and then `rails s` to start a local server and view the app in your browser
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Author
+Grey Joyner
